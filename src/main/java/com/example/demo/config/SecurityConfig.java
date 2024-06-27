@@ -29,7 +29,7 @@ import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
 
 /*
- * 스프링 시큐리티 설정 클래스
+ * 스프링 시큐리티 설정 클래스22
  * */
 @Configuration
 @EnableWebSecurity
